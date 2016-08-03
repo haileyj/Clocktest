@@ -175,10 +175,6 @@ public class MainActivity extends AppCompatActivity {
         MainActivity.DisplayAllUI displayAllUI = new MainActivity.DisplayAllUI();
         displayAllUI.start();
 
-        int k = 1;
-        k=k+1;
-        k=k+2;
-
         // System.exit(0);
 
     }
